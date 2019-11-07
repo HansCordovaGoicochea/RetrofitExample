@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RetrofitExample</string>
+    <string name="traer_datos">Traer Datos</string>
+</resources>
